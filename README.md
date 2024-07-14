@@ -2,4 +2,5 @@ We present a code to extract gameplay information (all states and actions) in Ms
 
 The extracted gameplay data and all data from the Atari-HEAD dataset were combined into one datafile, which can be found here: https://osf.io/rd35j/
 
-[In progress, to be updated and completed before July 20, 2024]
+[In progress, notebooks and codes to be uploaded soon, before July 20, 2024]
+
