@@ -2,7 +2,7 @@ We present some codes to extract gameplay information (all states and actions) i
 
 In this work, we aimed to maximize information on task or game environment as the human players rocked the world of Ms. Pacman. Our programs identify each object (e.g., Pacman, all ghosts, their states, dots left and their positions, power pills left and their locations, bonus fruits, and more). Here is an animation of a session played by a human participant. We have put markers on the game objects () based on their estimated location. As we can see, all objects are detected with high accuracy.
 
-![](anim_pacman_session_1_file_52_RZ_2394668_Aug-10-14-52-42.mp4)
+<video src="anim_pacman_session_1_file_52_RZ_2394668_Aug-10-14-52-42.mp4" width="320" height="240" controls></video>
 
 We combined the extracted gameplay data and all data from the Atari-HEAD dataset into one data file, which can be found here: https://osf.io/rd35j/. The original dataset by Zhang et al (2020) can be found here: https://zenodo.org/records/3451402.
 
