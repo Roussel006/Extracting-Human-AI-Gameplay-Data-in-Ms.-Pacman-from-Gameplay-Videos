@@ -4,6 +4,8 @@ In this work, we aimed to maximize information on task or game environment as th
 
 https://github.com/user-attachments/assets/2a45e572-0a72-42fe-b15a-c58e6aebb987
 
+https://github.com/Roussel006/Extracting-Human-AI-Gameplay-Data-in-Ms.-Pacman-from-Gameplay-Videos/blob/main/gameplay_animations/anim_pacman_session_105_RZ_3614646.mp4
+
 We combined the extracted gameplay data and all data from the Atari-HEAD dataset into one data file, which can be found here: https://osf.io/rd35j/. The original dataset by Zhang et al (2020) can be found here: https://zenodo.org/records/3451402.
 
 [In progress, notebooks and codes to be uploaded soon, before July 31, 2024]
