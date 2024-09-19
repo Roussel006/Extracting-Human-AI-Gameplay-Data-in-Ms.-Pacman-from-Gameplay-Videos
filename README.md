@@ -5,7 +5,7 @@ In this work, we extracted the gameplay information directly from the gameplay v
 https://github.com/user-attachments/assets/f184a3f5-50e4-4e98-ac19-8a7d2ff5665b
 
 ## Datasets:
-We combined the extracted gameplay data and all data from the Atari-HEAD dataset into one data file, which can be found here: https://osf.io/rd35j/. The original dataset by Zhang et al (2020) can be found here: https://zenodo.org/records/3451402.
+We combined the extracted gameplay data and all data from the Atari-HEAD dataset into one data file, which can be found [here](https://osf.io/rd35j/). The original dataset by Zhang et al (2020) can be found in this [link]( https://zenodo.org/records/3451402).
 
 ## Brief summary of how it works:
 The game objects have distinct colors, and we simply identified the objects (e.g., the Ms. Pacman avatar, the ghosts, the fruits) by their colors. Although this information is sufficient to identify the objects, several problems had to be overcome to increase the accuracy and reduce computation time.
